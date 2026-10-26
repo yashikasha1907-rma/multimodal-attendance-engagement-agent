@@ -2,7 +2,9 @@
 
 ## Slide 1 — Title
 Multimodal Attendance and Engagement Agent  
-Your name, roll number, department, college, guide.
+ Name-Yashika
+ Department- Engineering and Technology
+ College- Gurugram University
 
 ## Slide 2 — Problem Statement
 - Manual attendance takes time.
